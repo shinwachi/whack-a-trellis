@@ -5,6 +5,7 @@ An electronic whack-a-mole game which uses Adafruit's Trellis M4 in CircuitPytho
 # Credits
 
 Trellis M4 Circuit Python Libraries from Adafruit:https://github.com/adafruit/Adafruit_CircuitPython_TrellisM4
+
 Minimum Alpha Font from jjmajava: https://gist.github.com/jjmajava/977646457e00be87bb2e
 
 # Rule
